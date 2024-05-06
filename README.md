@@ -25,4 +25,4 @@ Contributions are welcome! If you have any ideas for improvements or find any is
 
 ## Contact
 
-For any inquiries or support, please contact [email@dinhtrung0902@gmail.com](mailto:dinhtrung0902@gmail.com).
+For any inquiries or support, please contact [dinhtrung0902@gmail.com](mailto:dinhtrung0902@gmail.com).
